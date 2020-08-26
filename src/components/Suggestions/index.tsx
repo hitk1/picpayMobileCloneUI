@@ -16,19 +16,19 @@ const Suggestions: React.FC = () => {
         <Container>
             <Option>
                 <Img source={img1}/>
-                <Description>Doações</Description>
+                <Description>Recarga</Description>
             </Option>
             <Option>
                 <Img source={img2}/>
-                <Description>Doações</Description>
+                <Description>Uber</Description>
             </Option>
             <Option>
                 <Img source={img3}/>
-                <Description>Doações</Description>
+                <Description>Ônibus</Description>
             </Option>
             <Option>
                 <Img source={img4}/>
-                <Description>Doações</Description>
+                <Description>TV</Description>
             </Option>
             <Option>
                 <Img source={img5}/>
@@ -36,11 +36,11 @@ const Suggestions: React.FC = () => {
             </Option>
             <Option>
                 <Img source={img6}/>
-                <Description>Doações</Description>
+                <Description>Cod. Barras</Description>
             </Option>
             <Option>
                 <Img source={img7}/>
-                <Description>Doações</Description>
+                <Description>FAQ</Description>
             </Option>
         </Container>
     );
